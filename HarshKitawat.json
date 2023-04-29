@@ -1,0 +1,22 @@
+{
+  "name": "Harshvardhan Singh Kitawat",
+  "type": "community",
+  "bio": "Student 1st Year BTech, Techno India NJR ,Udaipur ,Rajasthan",
+  "links": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/severityorsomethingidk/",
+      "icon": "FaInstagram"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UCPzADiFZ385vhew8Q4HqtAw",
+      "icon": "FaYoutube"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/harshkitawat",
+      "icon": "FaGithub"
+    } 
+  ]
+}

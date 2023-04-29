@@ -1,0 +1,17 @@
+{
+  "name": "Harshavardhan Singh Kitawat",
+  "type": "Personal",
+  "bio": "Student 1st Year ,BTech from Techno India NJR",
+  "links": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/severityorsomethingidk/",
+      "icon": "FaInstagram"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UCPzADiFZ385vhew8Q4HqtAw",
+      "icon": "FaYouTube"
+    },
+  ]
+}
